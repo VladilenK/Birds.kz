@@ -1,1 +1,1 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+Simple "one-pager" to hold links on all sites in "Birds of ..." project
